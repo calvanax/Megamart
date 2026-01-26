@@ -1,0 +1,30 @@
+h1{
+    color: whitesmoke;
+text-align: center;
+font-size: 70px;
+font-family: 'Times New Roman', Times, serif;
+background-color: white;
+line-height: 100px;
+text-shadow: 8px 8px 12px black;
+
+}
+
+h1:hover{
+    background-color: gainsboro;
+    color: black;
+
+}
+
+p{
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+img{
+    width:500px ;
+height: 500px;
+
+
+}
+
